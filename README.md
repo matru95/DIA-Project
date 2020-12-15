@@ -1,5 +1,7 @@
 # DIA-Project
 
+Pricing & Advertising Project
+
 Diego Riva – 10467099
 
 Matteo Rubiu – 10505109
